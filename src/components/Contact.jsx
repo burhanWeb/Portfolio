@@ -12,7 +12,7 @@ function Contact() {
             href="mailto:burhanweb11@gmail.com"
             className="text-cyan-400 hover:underline"
           >
-            burhanweb11@gmail.com
+            burhanweb111@gmail.com
           </a>
         </p>
         <p>📞 +91 95964 02602</p>
