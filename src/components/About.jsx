@@ -7,23 +7,23 @@ function About() {
       <div className="max-w-3xl mx-auto text-neutral-400 text-base lg:text-lg font-light leading-relaxed">
         <p>
           I'm a self-taught{" "}
-          <span className="text-white font-medium">Full Stack Developer</span>{" "}
-          skilled in{" "}
-          <span className="text-cyan-400">React, Node.js, AWS, PostgreSQL</span>
-          , and <span className="text-green-400">MongoDB</span>. While I haven’t
-          worked professionally yet, I’ve built multiple full-fledged projects
-          that demonstrate my ability to design real-world architectures, write
-          clean and maintainable code, and optimize for performance and
-          scalability.
+          <span className="text-white font-medium">Backend Developer</span>{" "}
+          specializing in{" "}
+          <span className="text-cyan-400">
+            Node.js, PostgreSQL, Docker, and AWS
+          </span>
+          . I've built production-grade systems like video transcoders,
+          real-time streaming platforms, and AI-powered resume tools that
+          showcase my ability to architect, scale, and secure backend
+          infrastructure.
         </p>
         <br />
         <p>
-          I’m a fast learner with a strong passion for web development and cloud
-          technologies. I thrive in problem-solving environments and enjoy
-          turning complex challenges into elegant solutions. I'm currently
-          looking for an opportunity to contribute to a collaborative team,
-          continue growing, and help build software that delivers real value and
-          impact.
+          I’m passionate about writing clean, maintainable code and solving
+          real-world problems with cloud-native technologies. I enjoy building
+          systems involving background workers, media pipelines, and API-first
+          design. I'm currently seeking a backend role where I can contribute to
+          impactful products and grow in a collaborative team environment.
         </p>
       </div>
     </section>

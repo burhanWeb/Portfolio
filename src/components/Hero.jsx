@@ -12,13 +12,16 @@ function Hero() {
               Burhan Sidiq
             </h1>
             <span className="bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 bg-clip-text text-transparent text-3xl lg:text-4xl tracking-tight">
-              Full Stack Developer
+              Backend Developer • Cloud & Docker Enthusiast
             </span>
             <p className="mt-6 max-w-2xl text-base lg:text-lg font-light text-neutral-400">
-              I'm a self-taught developer who loves building full-stack web apps
-              with React, Node.js, AWS, and PostgreSQL. I enjoy solving
-              real-world problems through clean code and cloud-first
-              architecture.
+              I build secure, scalable backend systems using{" "}
+              <span className="text-white font-medium">
+                Node.js, PostgreSQL, Docker, and AWS
+              </span>
+              . From real-time streaming to AI-powered resume platforms, I focus
+              on clean architecture, media pipelines, and cloud-native
+              infrastructure.
             </p>
           </div>
         </div>
