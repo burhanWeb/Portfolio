@@ -12,20 +12,19 @@ function Hero() {
               Burhan Sidiq
             </h1>
             <span className="bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 bg-clip-text text-transparent text-3xl lg:text-4xl tracking-tight">
-              Backend Developer • Cloud & Docker Enthusiast
+              Full Stack Developer • Cloud & Docker Enthusiast
             </span>
             <p className="mt-6 max-w-2xl text-base lg:text-lg font-light text-neutral-400">
-              I build secure, scalable backend systems using{" "}
+              I build secure, scalable, and cloud-ready applications with{" "}
               <span className="text-white font-medium">
-                Node.js, PostgreSQL, Docker, and AWS
+                Node.js, Express.js, PostgreSQL, MongoDB, Docker, and AWS
               </span>
-              . From real-time streaming to AI-powered resume platforms, I focus
-              on clean architecture, media pipelines, and cloud-native
-              infrastructure.
+              . From real-time streaming and AI-powered platforms to video
+              processing pipelines, I focus on clean architecture, media
+              workflows, and robust DevOps practices.
             </p>
           </div>
         </div>
-
         {/* Image Section */}
         <div className="w-full lg:w-1/2 mt-8 lg:mt-0 lg:p-8">
           <div className="flex justify-center lg:justify-end">
