@@ -21,9 +21,7 @@ function About() {
           Passionate about writing clean, maintainable code and solving
           real-world problems, I implement robust DevOps practices and enjoy
           building systems with background workers, media pipelines, and an
-          API-first approach. I’m looking for a backend-focused role where I can
-          have an impact and continue to grow within a collaborative engineering
-          team.
+          API-first approach.
         </p>
       </div>
     </section>
