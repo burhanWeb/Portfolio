@@ -11,7 +11,7 @@ function Contact() {
             href="mailto:burhanweb11@gmail.com"
             className="text-cyan-400 hover:underline"
           >
-            burhansidiq.backend@gmail.com{" "}
+            burhansidiq.backend@gmail.com
           </a>
         </p>
       </div>
